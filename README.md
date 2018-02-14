@@ -1,0 +1,2 @@
+Deployment
+command npm install
